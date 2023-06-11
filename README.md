@@ -1,16 +1,5 @@
-# nano_health_store
 
-A new Flutter project.
+--run terminal Flutter pub get
 
-## Getting Started
+https://github.com/abdullahonus/nano_health_store/assets/47148545/a64511e0-cb0b-480b-b59e-dabe358cf3c8
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
